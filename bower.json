@@ -1,0 +1,20 @@
+{
+  "name": "building-2048-angular",
+  "homepage": "https://github.com/zklinger2000/building-2048-angular",
+  "authors": [
+    "Zack Klinger <zklinger@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.5"
+  }
+}
